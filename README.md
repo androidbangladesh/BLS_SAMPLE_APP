@@ -13,8 +13,10 @@ Copy the font in the assets folder and copy bls-1.0.jar in libs folder of your p
 Add bls-1.0.jar to your project's buildpath
 From your Activity class call <br />
 BengaliUnicodeString.getBengaliUTF(Main.this,text,textview); <br/>
+<ul>
 <li>Main.this: Is the Context <li/>
-text: The Bengali text to be rendered <br/>
-textview: Is the textview <br/>
+<li> text: The Bengali text to be rendered <li/>
+<li> textview: Is the textview <li/>
 These three parameters must be passed to the method
+</ul>
 </p>
