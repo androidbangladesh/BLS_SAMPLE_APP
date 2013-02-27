@@ -17,7 +17,7 @@ BengaliUnicodeString.getBengaliUTF(Main.this,text,textview); </p>
 <ul>
 <li> Main.this: Is the Context </li>
 <li> text: The Bengali text to be rendered </li>
-<li> textview: Is the textview </li>
+<li> textview: Is the veiw which you want the text to be displayed in (In this case it is textview. You can use others eg:Button </li>
 </ul>
 </p>
 
