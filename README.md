@@ -20,3 +20,5 @@ BengaliUnicodeString.getBengaliUTF(Main.this,text,textview); </p>
 <li> textview: Is the textview </li>
 </ul>
 </p>
+
+<p> You can also run this sample application for reference</p>
