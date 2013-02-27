@@ -37,7 +37,7 @@ CheckBox checkbox;
 //			text = new String(b);
 			
 			
-			text = "তত্ত্বাবধায়ক সরকারের পুরো দুই বছর দেশের আইনশৃঙ্খলা পরিস্থিতি ভালো ছিল। বিচ্ছিন্ন কিছু ঘটনা ছাড়া দেশে বড় ধরনের কোনো সহিংস ঘটনা সে সময় ঘটেনি। সেই অবস্থা ধরে রাখার চ্যালেঞ্জ নিয়ে শুরু হয় আওয়ামী লীগের নেতৃত্বাধীন মহাজোট সরকারের যাত্রা।";
+			text = "নিঝুম দ্বীপে ৯টি গুচ্ছ গ্রাম রয়েছে। এই গুচ্ছ গ্রাম ছাড়াও বিভিন্ন জায়গায় ছড়িয়ে ছিটিয়ে রয়েছে ছোটখাটো ঝুপড়ি ঘর।";
 //			tview.setText("");
 			BengaliUnicodeString.getBengaliUTF(Main.this,text,tview);
 			
@@ -45,7 +45,7 @@ CheckBox checkbox;
 //			text = BengaliUnicodeString.getBengaliUTF(text);
 			BengaliUnicodeString.getBengaliUTF(Main.this,text,button);
 			
-			text = "‘ক্রসফায়ার-এনকাউন্টার’-এর নামে বিচারবহির্ভূত হত্যাকাণ্ড বন্ধ হয়নি। cross-fire, tishum tishum :D";
+			text ="বনবিভাগ নিঝুম দ্বীপের উন্নয়নের জন্য বিভিন্ন পদক্ষেপ নিয়েছেন, বন্যপ্রাণী"
 //			text = BengaliUnicodeString.getBengaliUTF(text);
 			BengaliUnicodeString.getBengaliUTF(Main.this,null,checkbox);
 			
