@@ -41,14 +41,13 @@ CheckBox checkbox;
 //			tview.setText("");
 			BengaliUnicodeString.getBengaliUTF(Main.this,text,tview);
 			
-			text = "আইনশৃঙ্খলা পরিস্থিতি law and order condition";
+			text = "আইনশৃঙ্খলা পরিস্থিতি";
 //			text = BengaliUnicodeString.getBengaliUTF(text);
 			BengaliUnicodeString.getBengaliUTF(Main.this,text,button);
 			
-			text ="বনবিভাগ নিঝুম দ্বীপের উন্নয়নের জন্য বিভিন্ন পদক্ষেপ নিয়েছেন, বন্যপ্রাণী"
+			text ="বনবিভাগ নিঝুম দ্বীপের উন্নয়নের জন্য বিভিন্ন পদক্ষেপ নিয়েছেন, বন্যপ্রাণী";
 //			text = BengaliUnicodeString.getBengaliUTF(text);
-			BengaliUnicodeString.getBengaliUTF(Main.this,null,checkbox);
-			
+			BengaliUnicodeString.getBengaliUTF(Main.this,text,checkbox);
 			char[] t = text.toCharArray();
 			for(int i=0;i<text.length();i++){
     			Log.d("TEXT",Integer.toHexString(t[i])+"  -> "+t[i]);
